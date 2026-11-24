@@ -1,0 +1,57 @@
+[
+  {
+    "id": "972b655c-3f51-4435-9cd3-bdae8370b27d",
+    "user_id": 1499076065581334598,
+    "items": [
+      "xp_max"
+    ],
+    "type": "normal",
+    "time": "2026-11-23T14:43:57.377631"
+  },
+  {
+    "id": "065a59a3-fbb4-4601-b9c7-535ceac55c6a",
+    "user_id": 1499076065581334598,
+    "items": [
+      "main_clear"
+    ],
+    "type": "normal",
+    "time": "2026-11-23T14:48:37.564654"
+  },
+  {
+    "id": "e52f6b08-faa0-402b-942b-c64ed8e4f246",
+    "user_id": 1499076065581334598,
+    "items": [
+      "nyan_ticket_999"
+    ],
+    "type": "normal",
+    "time": "2026-11-23T15:07:30.647783"
+  },
+  {
+    "id": "b1bd9f6e-d885-48ef-b311-fb78eedacacc",
+    "user_id": 1241949049775587370,
+    "items": [
+      "all_char_unlock",
+      "error_char_delete"
+    ],
+    "type": "normal",
+    "time": "2026-11-23T19:17:58.464266"
+  },
+  {
+    "id": "ff553199-c619-4f68-bfbb-578ac6a35c1f",
+    "user_id": 1499076065581334598,
+    "items": [
+      "all_char_unlock"
+    ],
+    "type": "normal",
+    "time": "2026-11-23T19:25:55.148199"
+  },
+  {
+    "id": "df701532-4797-45ad-acec-ddc28ea7ca18",
+    "user_id": 1499076065581334598,
+    "items": [
+      "all_char_unlock"
+    ],
+    "type": "normal",
+    "time": "2026-11-23T19:32:13.342156"
+  }
+]
